@@ -6,7 +6,7 @@
 
   <groupId>pkg1</groupId>
   <artifactId>mvn-cmd</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>mvn-cmd</name>
   <!-- FIXME change it to the project's website -->
